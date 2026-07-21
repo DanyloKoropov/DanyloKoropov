@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Danylo 
 
-<!--
-**DanyloKoropov/DanyloKoropov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern, responsive web applications using React and JavaScript.
+I enjoy creating clean user interfaces, writing maintainable code, and solving real-world problems through software.
 
-Here are some ideas to get you started:
+Tech Stack:
+JavaScript
+React
+Vite
+HTML
+CSS
+Tailwind
+Git
+GitHub
+Firebase
+Supabase
+REST API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Featured Projects:
+
+BudgetFlow
+A polished personal budget planner built with React, Vite, React Router, Context API, LocalStorage, Recharts, and React Hook Form.
+
+https://budget-flow-inky.vercel.app
+https://github.com/DanyloKoropov/budget-flow
+
+NovaStore
+A responsive e-commerce application built with React.
+
+https://nova-store-rho-sandy.vercel.app
+https://github.com/DanyloKoropov/nova-store
+
+ProjectFlow
+
+https://github.com/DanyloKoropov/projectflow
+https://projectflow-one-opal.vercel.app/login
+
+Email: danylokoropov@gmail.com
